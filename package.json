@@ -1,0 +1,34 @@
+{
+  "name": "JATE",
+  "version": "1.0.0",
+  "description": "This application is a text editor that runs in the browser. This app will be a single-page application that meets the PWA criteria. Additionally, it will feature data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "none",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMA1970/TxtEdit.git"
+  },
+  "keywords": [
+    "PWA",
+    "webpack",
+    "npm",
+    "indexDB"
+  ],
+  "author": "Eileen Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EMA1970/TxtEdit/issues"
+  },
+  "homepage": "https://github.com/EMA1970/TxtEdit#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "nodemon": "^2.0.20"
+  }
+}

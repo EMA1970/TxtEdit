@@ -1,0 +1,27 @@
+{
+  "name": "jate",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js --ignore client",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Eileen ma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMA1970/TxtEdit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EMA1970/TxtEdit/issues"
+  },
+  "homepage": "https://github.com/EMA1970/TxtEdit#readme",
+  "description": ""
+}

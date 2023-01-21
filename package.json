@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "This application is a text editor that runs in the browser. This app will be a single-page application that meets the PWA criteria. Additionally, it will feature data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline. ",
   "main": "server.js",
-  "engines" : { 
-    "node" : ">=18.0.0 <19.0.0"},
   
   "scripts": {
     "test": "none",

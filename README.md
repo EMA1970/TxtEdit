@@ -30,9 +30,10 @@ For developers:
 When a user arrive at the application homepage. They may run the application in browser or click on `install` button on the top of the page to run the application locally without browser internet suppport. 
 
 ## Screenshot 
+<img width="1668" alt="Screen Shot 2023-01-22 at 6 11 34 PM" src="https://user-images.githubusercontent.com/114694158/213955084-1f744ec4-1086-4a5a-9c33-db2b6f069007.png">
 
 ## Deployment 
-
+https://damp-river-46617.herokuapp.com/
 
 ## License 
    GNU GENERAL PUBLIC LICENSE
